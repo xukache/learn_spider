@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/12_scrapy存储数据/cai" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/04_多线程和多进程/表情包" />
+      <excludeFolder url="file://$MODULE_DIR$/05_协程/明朝那些事儿" />
+      <excludeFolder url="file://$MODULE_DIR$/05_协程/解密前" />
+      <excludeFolder url="file://$MODULE_DIR$/05_协程/解密后" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (dapy38) (2)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
